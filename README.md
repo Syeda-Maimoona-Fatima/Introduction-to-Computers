@@ -60,8 +60,7 @@ The project was completed using the following workflow:
 
     ## Computer Image
 
-![Computer](https://myoctocat.com/assets/images/base-octocat.svg)
-
+![Computer](https://share.google/YEGjyfotsxQ2lyBFG)
    
   ## Tools Used
 
