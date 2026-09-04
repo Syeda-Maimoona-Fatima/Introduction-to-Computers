@@ -58,6 +58,10 @@ The project was completed using the following workflow:
 8. Reviewed the changes.
 9. Merged the Pull Request into the main branch.
 
+    ## Computer Image
+
+![Computer](https://myoctocat.com/assets/images/base-octocat.svg)
+
    
   ## Tools Used
 
@@ -75,3 +79,4 @@ int main() {
     printf("Hello World");
     return 0;
 }
+
