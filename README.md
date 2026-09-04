@@ -57,7 +57,15 @@ The project was completed using the following workflow:
 7. Created a Pull Request.
 8. Reviewed the changes.
 9. Merged the Pull Request into the main branch.
-  
+
+   
+  ## Tools Used
+
+1. GitHub
+2. Git
+3. Markdown
+4. C Programming Language
+   
 ## Basic Code Example
 
 ```c
