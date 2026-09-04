@@ -57,3 +57,13 @@ The project was completed using the following workflow:
 7. Created a Pull Request.
 8. Reviewed the changes.
 9. Merged the Pull Request into the main branch.
+  
+## Basic Code Example
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello World");
+    return 0;
+}
